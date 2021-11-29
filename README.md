@@ -1,2 +1,2 @@
-# blochchain
+# blockchain
 Rebel Coin Implementation
